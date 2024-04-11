@@ -1,0 +1,5 @@
+com\transaction\service\CurrencyConversionServiceImplTest.class
+com\transaction\controller\TransactionControllerTest.class
+com\transaction\data\UnitTestData.class
+com\transaction\TransactionApplicationTests.class
+com\transaction\service\TransactionServiceImplTest.class
